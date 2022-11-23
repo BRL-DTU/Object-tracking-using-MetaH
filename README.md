@@ -19,7 +19,7 @@ We have used two different objective functions on each of the meta-heuristic alg
 You can follow the steps provided below to start using this project:
 1. Clone the repo
    ```sh
-   git clone https://github.com/sumit-6/Banker-s-Algorithm-Visualizer.git
+   git clone https://github.com/BRL-DTU/Object-tracking-using-MetaH.git
    ```
 2. Install virtualenv first:
    ```
