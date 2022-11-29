@@ -45,4 +45,4 @@ You can follow the steps provided below to start using this project:
    ```
    python optimizer.py
    ```
-
+This project was done as part of Sumit Verma's summer internship at Biometric Research Laboratory, and was supervised by Inder Khatri and Arjun Choudhry.
